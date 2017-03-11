@@ -1534,14 +1534,14 @@
     </ElectionDistrict>
     <ElectionDistrict Code="RIV">
       <LA ElectionStatus="Count In Progress" ElectionStatusDescription="">
-        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="RIV" FormalVotes="17338" InformalVotes="705" LastUpdated="2017-03-11T21:09:10.3">
-          <CandidateVotes CandidateBallotPaperOrder="1" PollingPlaceVotes="802" CountCentreVotes="24" TotalVotes="826" />
-          <CandidateVotes CandidateBallotPaperOrder="2" PollingPlaceVotes="5591" CountCentreVotes="313" TotalVotes="5904" />
-          <CandidateVotes CandidateBallotPaperOrder="3" PollingPlaceVotes="138" CountCentreVotes="11" TotalVotes="149" />
-          <CandidateVotes CandidateBallotPaperOrder="4" PollingPlaceVotes="190" CountCentreVotes="12" TotalVotes="202" />
-          <CandidateVotes CandidateBallotPaperOrder="5" PollingPlaceVotes="1513" CountCentreVotes="66" TotalVotes="1579" />
-          <CandidateVotes CandidateBallotPaperOrder="6" PollingPlaceVotes="7400" CountCentreVotes="456" TotalVotes="7856" />
-          <CandidateVotes CandidateBallotPaperOrder="7" PollingPlaceVotes="754" CountCentreVotes="68" TotalVotes="822" />
+        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="RIV" FormalVotes="17819" InformalVotes="723" LastUpdated="2017-03-11T22:46:36.057">
+          <CandidateVotes CandidateBallotPaperOrder="1" PollingPlaceVotes="802" CountCentreVotes="37" TotalVotes="839" />
+          <CandidateVotes CandidateBallotPaperOrder="2" PollingPlaceVotes="5591" CountCentreVotes="490" TotalVotes="6081" />
+          <CandidateVotes CandidateBallotPaperOrder="3" PollingPlaceVotes="138" CountCentreVotes="16" TotalVotes="154" />
+          <CandidateVotes CandidateBallotPaperOrder="4" PollingPlaceVotes="190" CountCentreVotes="16" TotalVotes="206" />
+          <CandidateVotes CandidateBallotPaperOrder="5" PollingPlaceVotes="1513" CountCentreVotes="107" TotalVotes="1620" />
+          <CandidateVotes CandidateBallotPaperOrder="6" PollingPlaceVotes="7400" CountCentreVotes="672" TotalVotes="8072" />
+          <CandidateVotes CandidateBallotPaperOrder="7" PollingPlaceVotes="754" CountCentreVotes="93" TotalVotes="847" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="1" VoteGrouping="Polling Places" FormalVotes="1365" InformalVotes="49" LastUpdated="2017-03-11T19:25:41.333" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="2" VoteGrouping="Polling Places" FormalVotes="1287" InformalVotes="73" LastUpdated="2017-03-11T21:09:10.3" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="3" VoteGrouping="Polling Places" FormalVotes="1220" InformalVotes="35" LastUpdated="2017-03-11T19:48:55.713" />
@@ -1553,9 +1553,9 @@
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="9" VoteGrouping="Polling Places" FormalVotes="2131" InformalVotes="84" LastUpdated="2017-03-11T20:06:50.07" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="10" VoteGrouping="Polling Places" FormalVotes="2188" InformalVotes="95" LastUpdated="2017-03-11T20:19:30.223" />
           <CategoryVotes CategoryCode="SIR" CategoryName="Special Institutions,  Hospitals &amp; Remotes" VoteGrouping="Polling Places" FormalVotes="148" InformalVotes="10" LastUpdated="2017-03-11T18:43:37.717" />
-          <CategoryVotes CategoryCode="PPV" CategoryName="Early Votes (In Person)" VoteGrouping="Count Centre" FormalVotes="950" InformalVotes="47" LastUpdated="2017-03-11T18:58:33.887" />
+          <CategoryVotes CategoryCode="PPV" CategoryName="Early Votes (In Person)" VoteGrouping="Count Centre" FormalVotes="1431" InformalVotes="65" LastUpdated="2017-03-11T22:46:36.057" />
         </DistrictVotes>
-        <DistrictVotes CountDefinitionCode="LAND" CountDefinitionName="Legislative Assembly Indicative 2CP" DistrictCode="RIV" FormalVotes="17333" ExhaustedVotes="5" LastUpdated="2017-03-11T21:09:52.143">
+        <DistrictVotes CountDefinitionCode="LAND" CountDefinitionName="Legislative Assembly Indicative 2CP" DistrictCode="RIV" FormalVotes="17333" ExhaustedVotes="5" LastUpdated="2017-03-11T22:46:59.34">
           <CandidateVotes CandidateBallotPaperOrder="2" PollingPlaceVotes="7453" CountCentreVotes="430" TotalVotes="7883" />
           <CandidateVotes CandidateBallotPaperOrder="6" PollingPlaceVotes="8930" CountCentreVotes="520" TotalVotes="9450" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="1" VoteGrouping="Polling Places" FormalVotes="1364" ExhaustedVotes="1" LastUpdated="2017-03-11T19:42:18.533" />
@@ -1569,7 +1569,7 @@
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="9" VoteGrouping="Polling Places" FormalVotes="2128" ExhaustedVotes="3" LastUpdated="2017-03-11T20:26:06.137" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="10" VoteGrouping="Polling Places" FormalVotes="2188" ExhaustedVotes="0" LastUpdated="2017-03-11T20:38:55.973" />
           <CategoryVotes CategoryCode="SIR" CategoryName="Special Institutions,  Hospitals &amp; Remotes" VoteGrouping="Polling Places" FormalVotes="148" ExhaustedVotes="0" LastUpdated="2017-03-11T18:45:08" />
-          <CategoryVotes CategoryCode="PPV" CategoryName="Early Votes (In Person)" VoteGrouping="Count Centre" FormalVotes="950" ExhaustedVotes="0" LastUpdated="2017-03-11T18:59:12.747" />
+          <CategoryVotes CategoryCode="PPV" CategoryName="Early Votes (In Person)" VoteGrouping="Count Centre" FormalVotes="950" ExhaustedVotes="0" LastUpdated="2017-03-11T22:46:59.34" />
         </DistrictVotes>
       </LA>
     </ElectionDistrict>
@@ -1639,7 +1639,7 @@
           <CategoryVotes CategoryCode="POV" CategoryName="Early Votes (by Post)" VoteGrouping="Count Centre" FormalVotes="652" InformalVotes="14" LastUpdated="2017-03-11T22:37:25.097" />
           <CategoryVotes CategoryCode="PPV" CategoryName="Early Votes (In Person)" VoteGrouping="Count Centre" FormalVotes="1671" InformalVotes="44" LastUpdated="2017-03-11T22:41:32.52" />
         </DistrictVotes>
-        <DistrictVotes CountDefinitionCode="LAND" CountDefinitionName="Legislative Assembly Indicative 2CP" DistrictCode="SPH" FormalVotes="18245" ExhaustedVotes="2" LastUpdated="2017-03-11T22:38:07.8">
+        <DistrictVotes CountDefinitionCode="LAND" CountDefinitionName="Legislative Assembly Indicative 2CP" DistrictCode="SPH" FormalVotes="18245" ExhaustedVotes="2" LastUpdated="2017-03-11T22:43:07.007">
           <CandidateVotes CandidateBallotPaperOrder="4" PollingPlaceVotes="9486" CountCentreVotes="1070" TotalVotes="10556" />
           <CandidateVotes CandidateBallotPaperOrder="7" PollingPlaceVotes="7014" CountCentreVotes="675" TotalVotes="7689" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="1" VoteGrouping="Polling Places" FormalVotes="1369" ExhaustedVotes="0" LastUpdated="2017-03-11T20:00:39.927" />
@@ -1655,7 +1655,7 @@
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="11" VoteGrouping="Polling Places" FormalVotes="1695" ExhaustedVotes="0" LastUpdated="2017-03-11T20:17:13.19" />
           <CategoryVotes CategoryCode="SIR" CategoryName="Special Institutions,  Hospitals &amp; Remotes" VoteGrouping="Polling Places" FormalVotes="137" ExhaustedVotes="0" LastUpdated="2017-03-11T20:24:39.383" />
           <CategoryVotes CategoryCode="POV" CategoryName="Early Votes (by Post)" VoteGrouping="Count Centre" FormalVotes="652" ExhaustedVotes="0" LastUpdated="2017-03-11T22:38:07.8" />
-          <CategoryVotes CategoryCode="PPV" CategoryName="Early Votes (In Person)" VoteGrouping="Count Centre" FormalVotes="1093" ExhaustedVotes="0" LastUpdated="2017-03-11T20:18:25.003" />
+          <CategoryVotes CategoryCode="PPV" CategoryName="Early Votes (In Person)" VoteGrouping="Count Centre" FormalVotes="1093" ExhaustedVotes="0" LastUpdated="2017-03-11T22:43:07.007" />
         </DistrictVotes>
       </LA>
     </ElectionDistrict>
@@ -2609,14 +2609,14 @@
     </ElectionDistrict>
     <ElectionDistrict Code="MUR">
       <LA ElectionStatus="Count In Progress" ElectionStatusDescription="">
-        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="MUR" FormalVotes="18640" InformalVotes="914" LastUpdated="2017-03-11T21:47:31.74">
-          <CandidateVotes CandidateBallotPaperOrder="1" PollingPlaceVotes="188" CountCentreVotes="23" TotalVotes="211" />
-          <CandidateVotes CandidateBallotPaperOrder="2" PollingPlaceVotes="678" CountCentreVotes="88" TotalVotes="766" />
-          <CandidateVotes CandidateBallotPaperOrder="3" PollingPlaceVotes="1877" CountCentreVotes="266" TotalVotes="2143" />
-          <CandidateVotes CandidateBallotPaperOrder="4" PollingPlaceVotes="4651" CountCentreVotes="836" TotalVotes="5487" />
-          <CandidateVotes CandidateBallotPaperOrder="5" PollingPlaceVotes="5753" CountCentreVotes="1069" TotalVotes="6822" />
-          <CandidateVotes CandidateBallotPaperOrder="6" PollingPlaceVotes="1012" CountCentreVotes="161" TotalVotes="1173" />
-          <CandidateVotes CandidateBallotPaperOrder="7" PollingPlaceVotes="1582" CountCentreVotes="456" TotalVotes="2038" />
+        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="MUR" FormalVotes="19343" InformalVotes="936" LastUpdated="2017-03-11T22:44:06.477">
+          <CandidateVotes CandidateBallotPaperOrder="1" PollingPlaceVotes="188" CountCentreVotes="28" TotalVotes="216" />
+          <CandidateVotes CandidateBallotPaperOrder="2" PollingPlaceVotes="678" CountCentreVotes="117" TotalVotes="795" />
+          <CandidateVotes CandidateBallotPaperOrder="3" PollingPlaceVotes="1877" CountCentreVotes="354" TotalVotes="2231" />
+          <CandidateVotes CandidateBallotPaperOrder="4" PollingPlaceVotes="4651" CountCentreVotes="1028" TotalVotes="5679" />
+          <CandidateVotes CandidateBallotPaperOrder="5" PollingPlaceVotes="5753" CountCentreVotes="1346" TotalVotes="7099" />
+          <CandidateVotes CandidateBallotPaperOrder="6" PollingPlaceVotes="1012" CountCentreVotes="189" TotalVotes="1201" />
+          <CandidateVotes CandidateBallotPaperOrder="7" PollingPlaceVotes="1582" CountCentreVotes="540" TotalVotes="2122" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="1" VoteGrouping="Polling Places" FormalVotes="1257" InformalVotes="56" LastUpdated="2017-03-11T20:57:06.443" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="2" VoteGrouping="Polling Places" FormalVotes="1623" InformalVotes="91" LastUpdated="2017-03-11T20:11:33.827" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="3" VoteGrouping="Polling Places" FormalVotes="715" InformalVotes="30" LastUpdated="2017-03-11T19:40:35.313" />
@@ -2637,9 +2637,9 @@
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="18" VoteGrouping="Polling Places" FormalVotes="1388" InformalVotes="69" LastUpdated="2017-03-11T20:36:25.8" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="19" VoteGrouping="Polling Places" FormalVotes="275" InformalVotes="21" LastUpdated="2017-03-11T19:20:21.14" />
           <CategoryVotes CategoryCode="SIR" CategoryName="Special Institutions,  Hospitals &amp; Remotes" VoteGrouping="Polling Places" FormalVotes="299" InformalVotes="9" LastUpdated="2017-03-11T18:52:10.897" />
-          <CategoryVotes CategoryCode="PPV" CategoryName="Early Votes (In Person)" VoteGrouping="Count Centre" FormalVotes="2899" InformalVotes="140" LastUpdated="2017-03-11T21:47:31.74" />
+          <CategoryVotes CategoryCode="PPV" CategoryName="Early Votes (In Person)" VoteGrouping="Count Centre" FormalVotes="3602" InformalVotes="162" LastUpdated="2017-03-11T22:44:06.477" />
         </DistrictVotes>
-        <DistrictVotes CountDefinitionCode="LAND" CountDefinitionName="Legislative Assembly Indicative 2CP" DistrictCode="MUR" FormalVotes="18606" ExhaustedVotes="34" LastUpdated="2017-03-11T21:48:08.833">
+        <DistrictVotes CountDefinitionCode="LAND" CountDefinitionName="Legislative Assembly Indicative 2CP" DistrictCode="MUR" FormalVotes="18606" ExhaustedVotes="34" LastUpdated="2017-03-11T22:44:34.883">
           <CandidateVotes CandidateBallotPaperOrder="4" PollingPlaceVotes="7729" CountCentreVotes="1381" TotalVotes="9110" />
           <CandidateVotes CandidateBallotPaperOrder="5" PollingPlaceVotes="7981" CountCentreVotes="1515" TotalVotes="9496" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="1" VoteGrouping="Polling Places" FormalVotes="1257" ExhaustedVotes="0" LastUpdated="2017-03-11T20:57:50.68" />
@@ -2662,7 +2662,7 @@
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="18" VoteGrouping="Polling Places" FormalVotes="1388" ExhaustedVotes="0" LastUpdated="2017-03-11T20:37:10.35" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="19" VoteGrouping="Polling Places" FormalVotes="275" ExhaustedVotes="0" LastUpdated="2017-03-11T19:21:10.67" />
           <CategoryVotes CategoryCode="SIR" CategoryName="Special Institutions,  Hospitals &amp; Remotes" VoteGrouping="Polling Places" FormalVotes="299" ExhaustedVotes="0" LastUpdated="2017-03-11T20:27:23.543" />
-          <CategoryVotes CategoryCode="PPV" CategoryName="Early Votes (In Person)" VoteGrouping="Count Centre" FormalVotes="2896" ExhaustedVotes="3" LastUpdated="2017-03-11T21:48:08.833" />
+          <CategoryVotes CategoryCode="PPV" CategoryName="Early Votes (In Person)" VoteGrouping="Count Centre" FormalVotes="2896" ExhaustedVotes="3" LastUpdated="2017-03-11T22:44:34.883" />
         </DistrictVotes>
       </LA>
     </ElectionDistrict>
