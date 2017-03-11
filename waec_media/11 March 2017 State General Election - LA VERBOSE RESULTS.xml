@@ -346,6 +346,14 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="MARMION, Bill" Votes="34" />
           </OrdinaryPollingPlaceVotes>
         </DistrictVotes>
+        <DistrictVotes CountDefinitionCode="LAND" CountDefinitionName="Legislative Assembly Indicative 2CP" DistrictCode="NED" DistrictName="Nedlands" FormalVotes="0" ExhaustedVotes="0" LastUpdated="2017-03-11T18:27:08.69">
+          <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="TAYLOR, Penny" Votes="0" />
+          <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="MARMION, Bill" Votes="0" />
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="7" OrdinaryPollingPlaceName="Sir Charles Gairdner Hospital" VoteGrouping="Polling Places" FormalVotes="0" ExhaustedVotes="0" LastUpdated="2017-03-11T18:27:08.69">
+            <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="TAYLOR, Penny" Votes="0" />
+            <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="MARMION, Bill" Votes="0" />
+          </OrdinaryPollingPlaceVotes>
+        </DistrictVotes>
       </LA>
     </ElectionDistrict>
     <ElectionDistrict Code="PER" Name="Perth" Enrolment="29833">
@@ -393,16 +401,38 @@
   <ElectionRegion Code="03">
     <ElectionDistrict Code="BAD" Name="Baldivis" Enrolment="30777">
       <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Count In Progress" ElectionStatusDescription="">
-        <DistrictVotes CountDefinitionCode="" CountDefinitionName="" DistrictCode="BAD" DistrictName="Baldivis" FormalVotes="0" LastUpdated="0001-01-01T00:00:00">
-          <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="GEORGE, Malcolm" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="SUMMERS, Kath" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="FEGEBANK, Christine" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="WHITFIELD, Matt" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="ZURAKOWSKI, John Carl" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="WHITBY, Reece" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="HOLMES, Yvette" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="8" CandidateBallotPaperName="MAKKAR, Prabhpreet Singh" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="9" CandidateBallotPaperName="HAMERSLEY, Craig" Votes="0" />
+        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="BAD" DistrictName="Baldivis" FormalVotes="293" InformalVotes="11" LastUpdated="2017-03-11T18:31:35.867">
+          <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="GEORGE, Malcolm" Votes="44" />
+          <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="SUMMERS, Kath" Votes="1" />
+          <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="FEGEBANK, Christine" Votes="5" />
+          <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="WHITFIELD, Matt" Votes="56" />
+          <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="ZURAKOWSKI, John Carl" Votes="7" />
+          <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="WHITBY, Reece" Votes="96" />
+          <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="HOLMES, Yvette" Votes="78" />
+          <CandidateVotes CandidateBallotPaperOrder="8" CandidateBallotPaperName="MAKKAR, Prabhpreet Singh" Votes="3" />
+          <CandidateVotes CandidateBallotPaperOrder="9" CandidateBallotPaperName="HAMERSLEY, Craig" Votes="3" />
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="8" OrdinaryPollingPlaceName="Rockingham John Calvin School" VoteGrouping="Polling Places" FormalVotes="268" InformalVotes="10" LastUpdated="2017-03-11T18:29:44.387">
+            <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="GEORGE, Malcolm" Votes="39" />
+            <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="SUMMERS, Kath" Votes="1" />
+            <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="FEGEBANK, Christine" Votes="5" />
+            <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="WHITFIELD, Matt" Votes="53" />
+            <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="ZURAKOWSKI, John Carl" Votes="6" />
+            <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="WHITBY, Reece" Votes="81" />
+            <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="HOLMES, Yvette" Votes="78" />
+            <CandidateVotes CandidateBallotPaperOrder="8" CandidateBallotPaperName="MAKKAR, Prabhpreet Singh" Votes="3" />
+            <CandidateVotes CandidateBallotPaperOrder="9" CandidateBallotPaperName="HAMERSLEY, Craig" Votes="2" />
+          </OrdinaryPollingPlaceVotes>
+          <CategoryVotes CategoryCode="SIR" CategoryName="Special Institutions,  Hospitals &amp; Remotes" VoteGrouping="Polling Places" FormalVotes="25" InformalVotes="1" LastUpdated="2017-03-11T18:31:35.867">
+            <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="GEORGE, Malcolm" Votes="5" />
+            <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="SUMMERS, Kath" Votes="0" />
+            <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="FEGEBANK, Christine" Votes="0" />
+            <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="WHITFIELD, Matt" Votes="3" />
+            <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="ZURAKOWSKI, John Carl" Votes="1" />
+            <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="WHITBY, Reece" Votes="15" />
+            <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="HOLMES, Yvette" Votes="0" />
+            <CandidateVotes CandidateBallotPaperOrder="8" CandidateBallotPaperName="MAKKAR, Prabhpreet Singh" Votes="0" />
+            <CandidateVotes CandidateBallotPaperOrder="9" CandidateBallotPaperName="HAMERSLEY, Craig" Votes="1" />
+          </CategoryVotes>
         </DistrictVotes>
       </LA>
     </ElectionDistrict>
@@ -590,15 +620,15 @@
   <ElectionRegion Code="04">
     <ElectionDistrict Code="CEW" Name="Central Wheatbelt" Enrolment="26334">
       <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Count In Progress" ElectionStatusDescription="">
-        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="CEW" DistrictName="Central Wheatbelt" FormalVotes="138" InformalVotes="2" LastUpdated="2017-03-11T18:20:43.433">
-          <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="REID, Shaun" Votes="15" />
-          <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="DAVIES, Mia" Votes="75" />
-          <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="PEASE, Dennis" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="GOM, Estelle" Votes="1" />
-          <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="TEMPLEMAN, Gary" Votes="17" />
-          <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="CRABTREE, Bill" Votes="23" />
-          <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="FOOTE, Audrey" Votes="1" />
-          <CandidateVotes CandidateBallotPaperOrder="8" CandidateBallotPaperName="REYNDERS, Diff" Votes="6" />
+        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="CEW" DistrictName="Central Wheatbelt" FormalVotes="658" InformalVotes="15" LastUpdated="2017-03-11T18:32:03.817">
+          <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="REID, Shaun" Votes="79" />
+          <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="DAVIES, Mia" Votes="364" />
+          <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="PEASE, Dennis" Votes="8" />
+          <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="GOM, Estelle" Votes="4" />
+          <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="TEMPLEMAN, Gary" Votes="86" />
+          <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="CRABTREE, Bill" Votes="79" />
+          <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="FOOTE, Audrey" Votes="7" />
+          <CandidateVotes CandidateBallotPaperOrder="8" CandidateBallotPaperName="REYNDERS, Diff" Votes="31" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="2" OrdinaryPollingPlaceName="Beacon Community Resource Centre" VoteGrouping="Polling Places" FormalVotes="58" InformalVotes="0" LastUpdated="2017-03-11T18:19:38.283">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="REID, Shaun" Votes="5" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="DAVIES, Mia" Votes="35" />
@@ -618,6 +648,36 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="CRABTREE, Bill" Votes="14" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="FOOTE, Audrey" Votes="0" />
             <CandidateVotes CandidateBallotPaperOrder="8" CandidateBallotPaperName="REYNDERS, Diff" Votes="3" />
+          </OrdinaryPollingPlaceVotes>
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="22" OrdinaryPollingPlaceName="Narembeen District High School" VoteGrouping="Polling Places" FormalVotes="302" InformalVotes="3" LastUpdated="2017-03-11T18:29:25.17">
+            <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="REID, Shaun" Votes="50" />
+            <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="DAVIES, Mia" Votes="156" />
+            <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="PEASE, Dennis" Votes="6" />
+            <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="GOM, Estelle" Votes="1" />
+            <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="TEMPLEMAN, Gary" Votes="27" />
+            <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="CRABTREE, Bill" Votes="47" />
+            <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="FOOTE, Audrey" Votes="1" />
+            <CandidateVotes CandidateBallotPaperOrder="8" CandidateBallotPaperName="REYNDERS, Diff" Votes="14" />
+          </OrdinaryPollingPlaceVotes>
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="25" OrdinaryPollingPlaceName="Nungarin Primary School" VoteGrouping="Polling Places" FormalVotes="73" InformalVotes="0" LastUpdated="2017-03-11T18:28:08.99">
+            <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="REID, Shaun" Votes="5" />
+            <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="DAVIES, Mia" Votes="54" />
+            <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="PEASE, Dennis" Votes="0" />
+            <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="GOM, Estelle" Votes="0" />
+            <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="TEMPLEMAN, Gary" Votes="9" />
+            <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="CRABTREE, Bill" Votes="0" />
+            <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="FOOTE, Audrey" Votes="1" />
+            <CandidateVotes CandidateBallotPaperOrder="8" CandidateBallotPaperName="REYNDERS, Diff" Votes="4" />
+          </OrdinaryPollingPlaceVotes>
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="30" OrdinaryPollingPlaceName="Trayning Community Centre" VoteGrouping="Polling Places" FormalVotes="145" InformalVotes="10" LastUpdated="2017-03-11T18:32:03.817">
+            <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="REID, Shaun" Votes="9" />
+            <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="DAVIES, Mia" Votes="79" />
+            <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="PEASE, Dennis" Votes="2" />
+            <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="GOM, Estelle" Votes="2" />
+            <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="TEMPLEMAN, Gary" Votes="33" />
+            <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="CRABTREE, Bill" Votes="9" />
+            <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="FOOTE, Audrey" Votes="4" />
+            <CandidateVotes CandidateBallotPaperOrder="8" CandidateBallotPaperName="REYNDERS, Diff" Votes="7" />
           </OrdinaryPollingPlaceVotes>
         </DistrictVotes>
         <DistrictVotes CountDefinitionCode="LAND" CountDefinitionName="Legislative Assembly Indicative 2CP" DistrictCode="CEW" DistrictName="Central Wheatbelt" FormalVotes="0" ExhaustedVotes="0" LastUpdated="2017-03-11T18:26:49.787">
@@ -689,14 +749,23 @@
   <ElectionRegion Code="05">
     <ElectionDistrict Code="KAL" Name="Kalgoorlie" Enrolment="20024">
       <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Count In Progress" ElectionStatusDescription="">
-        <DistrictVotes CountDefinitionCode="" CountDefinitionName="" DistrictCode="KAL" DistrictName="Kalgoorlie" FormalVotes="0" LastUpdated="0001-01-01T00:00:00">
-          <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="O'DONNELL, Kyran" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="CROOK, Tony" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="BOLTON, Richard" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="SPURLING, Jacqueline" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="LUCAS, Mike" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="FORSTER, Darren" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="ERWIN, James" Votes="0" />
+        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="KAL" DistrictName="Kalgoorlie" FormalVotes="95" InformalVotes="2" LastUpdated="2017-03-11T18:28:08.02">
+          <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="O'DONNELL, Kyran" Votes="17" />
+          <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="CROOK, Tony" Votes="18" />
+          <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="BOLTON, Richard" Votes="19" />
+          <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="SPURLING, Jacqueline" Votes="8" />
+          <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="LUCAS, Mike" Votes="7" />
+          <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="FORSTER, Darren" Votes="25" />
+          <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="ERWIN, James" Votes="1" />
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="10" OrdinaryPollingPlaceName="Leinster Community Hall" VoteGrouping="Polling Places" FormalVotes="95" InformalVotes="2" LastUpdated="2017-03-11T18:28:08.02">
+            <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="O'DONNELL, Kyran" Votes="17" />
+            <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="CROOK, Tony" Votes="18" />
+            <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="BOLTON, Richard" Votes="19" />
+            <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="SPURLING, Jacqueline" Votes="8" />
+            <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="LUCAS, Mike" Votes="7" />
+            <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="FORSTER, Darren" Votes="25" />
+            <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="ERWIN, James" Votes="1" />
+          </OrdinaryPollingPlaceVotes>
         </DistrictVotes>
       </LA>
     </ElectionDistrict>
