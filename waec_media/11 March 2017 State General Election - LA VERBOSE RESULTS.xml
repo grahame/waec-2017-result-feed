@@ -582,15 +582,35 @@
   <ElectionRegion Code="04">
     <ElectionDistrict Code="CEW" Name="Central Wheatbelt" Enrolment="26334">
       <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Count In Progress" ElectionStatusDescription="">
-        <DistrictVotes CountDefinitionCode="" CountDefinitionName="" DistrictCode="CEW" DistrictName="Central Wheatbelt" FormalVotes="0" LastUpdated="0001-01-01T00:00:00">
-          <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="REID, Shaun" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="DAVIES, Mia" Votes="0" />
+        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="CEW" DistrictName="Central Wheatbelt" FormalVotes="138" InformalVotes="2" LastUpdated="2017-03-11T18:20:43.433">
+          <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="REID, Shaun" Votes="15" />
+          <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="DAVIES, Mia" Votes="75" />
           <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="PEASE, Dennis" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="GOM, Estelle" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="TEMPLEMAN, Gary" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="CRABTREE, Bill" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="FOOTE, Audrey" Votes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="8" CandidateBallotPaperName="REYNDERS, Diff" Votes="0" />
+          <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="GOM, Estelle" Votes="1" />
+          <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="TEMPLEMAN, Gary" Votes="17" />
+          <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="CRABTREE, Bill" Votes="23" />
+          <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="FOOTE, Audrey" Votes="1" />
+          <CandidateVotes CandidateBallotPaperOrder="8" CandidateBallotPaperName="REYNDERS, Diff" Votes="6" />
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="2" OrdinaryPollingPlaceName="Beacon Community Resource Centre" VoteGrouping="Polling Places" FormalVotes="58" InformalVotes="0" LastUpdated="2017-03-11T18:19:38.283">
+            <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="REID, Shaun" Votes="5" />
+            <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="DAVIES, Mia" Votes="35" />
+            <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="PEASE, Dennis" Votes="0" />
+            <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="GOM, Estelle" Votes="0" />
+            <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="TEMPLEMAN, Gary" Votes="5" />
+            <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="CRABTREE, Bill" Votes="9" />
+            <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="FOOTE, Audrey" Votes="1" />
+            <CandidateVotes CandidateBallotPaperOrder="8" CandidateBallotPaperName="REYNDERS, Diff" Votes="3" />
+          </OrdinaryPollingPlaceVotes>
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="18" OrdinaryPollingPlaceName="Meckering Primary School" VoteGrouping="Polling Places" FormalVotes="80" InformalVotes="2" LastUpdated="2017-03-11T18:20:43.433">
+            <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="REID, Shaun" Votes="10" />
+            <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="DAVIES, Mia" Votes="40" />
+            <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="PEASE, Dennis" Votes="0" />
+            <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="GOM, Estelle" Votes="1" />
+            <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="TEMPLEMAN, Gary" Votes="12" />
+            <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="CRABTREE, Bill" Votes="14" />
+            <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="FOOTE, Audrey" Votes="0" />
+            <CandidateVotes CandidateBallotPaperOrder="8" CandidateBallotPaperName="REYNDERS, Diff" Votes="3" />
+          </OrdinaryPollingPlaceVotes>
         </DistrictVotes>
       </LA>
     </ElectionDistrict>

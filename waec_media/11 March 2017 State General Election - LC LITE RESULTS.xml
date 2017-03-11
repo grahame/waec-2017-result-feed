@@ -82,17 +82,17 @@
   </ElectionRegion>
   <ElectionRegion Code="02">
     <LC ElectionStatus="Count In Progress" ElectionStatusDescription="">
-      <DistrictVotes CountDefinitionCode="" CountDefinitionName="" DistrictCode="02" DistrictName="North Metropolitan" FormalVotes="0" InformalVotes="0" LastUpdated="0001-01-01T00:00:00">
+      <DistrictVotes CountDefinitionCode="LCFD" CountDefinitionName="Legislative Council Primary Count" DistrictCode="02" DistrictName="North Metropolitan" FormalVotes="15" InformalVotes="0" LastUpdated="2017-03-11T18:17:26.753">
         <GroupVotes GroupBallotPaperOrder="1" TicketVotes="0" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="2" TicketVotes="0" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="2" TicketVotes="8" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="3" TicketVotes="0" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="4" TicketVotes="0" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="5" TicketVotes="0" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="5" TicketVotes="1" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="6" TicketVotes="0" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="7" TicketVotes="0" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="7" TicketVotes="1" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="8" TicketVotes="0" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="9" TicketVotes="0" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="10" TicketVotes="0" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="10" TicketVotes="5" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="11" TicketVotes="0" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="12" TicketVotes="0" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="13" TicketVotes="0" NonTicketVotes="0" />
@@ -102,6 +102,27 @@
         <GroupVotes GroupBallotPaperOrder="17" TicketVotes="0" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="18" TicketVotes="0" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="19" TicketVotes="0" NonTicketVotes="0" />
+        <CategoryVotes CategoryCode="SIR" CategoryName="Special Institutions,  Hospitals &amp; Remotes" VoteGrouping="Polling Places" FormalVotes="15" InformalVotes="0" LastUpdated="2017-03-11T18:17:26.753">
+          <GroupVotes GroupBallotPaperOrder="1" TicketVotes="0" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="2" TicketVotes="8" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="3" TicketVotes="0" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="4" TicketVotes="0" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="5" TicketVotes="1" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="6" TicketVotes="0" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="7" TicketVotes="1" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="8" TicketVotes="0" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="9" TicketVotes="0" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="10" TicketVotes="5" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="11" TicketVotes="0" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="12" TicketVotes="0" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="13" TicketVotes="0" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="14" TicketVotes="0" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="15" TicketVotes="0" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="16" TicketVotes="0" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="17" TicketVotes="0" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="18" TicketVotes="0" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="19" TicketVotes="0" NonTicketVotes="0" />
+        </CategoryVotes>
       </DistrictVotes>
     </LC>
   </ElectionRegion>

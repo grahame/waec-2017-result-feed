@@ -571,15 +571,17 @@
   <ElectionRegion Code="04">
     <ElectionDistrict Code="CEW">
       <LA ElectionStatus="Count In Progress" ElectionStatusDescription="">
-        <DistrictVotes CountDefinitionCode="" CountDefinitionName="" DistrictCode="CEW" FormalVotes="0" LastUpdated="0001-01-01T00:00:00">
-          <CandidateVotes CandidateBallotPaperOrder="1" PollingPlaceVotes="0" CountCentreVotes="0" TotalVotes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="2" PollingPlaceVotes="0" CountCentreVotes="0" TotalVotes="0" />
+        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="CEW" FormalVotes="138" InformalVotes="2" LastUpdated="2017-03-11T18:20:43.433">
+          <CandidateVotes CandidateBallotPaperOrder="1" PollingPlaceVotes="15" CountCentreVotes="0" TotalVotes="15" />
+          <CandidateVotes CandidateBallotPaperOrder="2" PollingPlaceVotes="75" CountCentreVotes="0" TotalVotes="75" />
           <CandidateVotes CandidateBallotPaperOrder="3" PollingPlaceVotes="0" CountCentreVotes="0" TotalVotes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="4" PollingPlaceVotes="0" CountCentreVotes="0" TotalVotes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="5" PollingPlaceVotes="0" CountCentreVotes="0" TotalVotes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="6" PollingPlaceVotes="0" CountCentreVotes="0" TotalVotes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="7" PollingPlaceVotes="0" CountCentreVotes="0" TotalVotes="0" />
-          <CandidateVotes CandidateBallotPaperOrder="8" PollingPlaceVotes="0" CountCentreVotes="0" TotalVotes="0" />
+          <CandidateVotes CandidateBallotPaperOrder="4" PollingPlaceVotes="1" CountCentreVotes="0" TotalVotes="1" />
+          <CandidateVotes CandidateBallotPaperOrder="5" PollingPlaceVotes="17" CountCentreVotes="0" TotalVotes="17" />
+          <CandidateVotes CandidateBallotPaperOrder="6" PollingPlaceVotes="23" CountCentreVotes="0" TotalVotes="23" />
+          <CandidateVotes CandidateBallotPaperOrder="7" PollingPlaceVotes="1" CountCentreVotes="0" TotalVotes="1" />
+          <CandidateVotes CandidateBallotPaperOrder="8" PollingPlaceVotes="6" CountCentreVotes="0" TotalVotes="6" />
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="2" VoteGrouping="Polling Places" FormalVotes="58" InformalVotes="0" LastUpdated="2017-03-11T18:19:38.283" />
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="18" VoteGrouping="Polling Places" FormalVotes="80" InformalVotes="2" LastUpdated="2017-03-11T18:20:43.433" />
         </DistrictVotes>
       </LA>
     </ElectionDistrict>
