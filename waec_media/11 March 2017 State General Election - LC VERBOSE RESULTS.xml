@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ElectionEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ElectionDate="2017-03-11" Name="11 March 2017 State General Election" xmlns="http://tempuri.org/MediaExportSchema.xsd">
   <ElectionRegion Code="04" Name="Agricultural" Enrolment="102748">
-    <LC Name="Legislative Council" Vacancies="6" ElectionStatus="Count In Progress" ElectionStatusDescription="">
+    <LC Name="Legislative Council" Vacancies="6" ElectionStatus="Final for the Night" ElectionStatusDescription="">
       <DistrictVotes CountDefinitionCode="LCFD" CountDefinitionName="Legislative Council Primary Count" DistrictCode="04" DistrictName="Agricultural" FormalVotes="47658" InformalVotes="1785" LastUpdated="2017-03-11T23:37:56.227">
         <GroupVotes GroupBallotPaperOrder="1" GroupBallotPaperName="WA Labor" TicketVotes="12023" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="2" GroupBallotPaperName="Family First" TicketVotes="465" NonTicketVotes="0" />
@@ -2880,7 +2880,7 @@
     </LC>
   </ElectionRegion>
   <ElectionRegion Code="01" Name="East Metropolitan" Enrolment="395451">
-    <LC Name="Legislative Council" Vacancies="6" ElectionStatus="Count In Progress" ElectionStatusDescription="">
+    <LC Name="Legislative Council" Vacancies="6" ElectionStatus="Final for the Night" ElectionStatusDescription="">
       <DistrictVotes CountDefinitionCode="LCFD" CountDefinitionName="Legislative Council Primary Count" DistrictCode="01" DistrictName="East Metropolitan" FormalVotes="165466" InformalVotes="6552" LastUpdated="2017-03-11T23:40:01.043">
         <GroupVotes GroupBallotPaperOrder="1" GroupBallotPaperName="Daylight Saving Party" TicketVotes="1140" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="2" GroupBallotPaperName="Independent" TicketVotes="341" NonTicketVotes="0" />
@@ -5546,7 +5546,7 @@
     </LC>
   </ElectionRegion>
   <ElectionRegion Code="05" Name="Mining and Pastoral" Enrolment="68480">
-    <LC Name="Legislative Council" Vacancies="6" ElectionStatus="Count In Progress" ElectionStatusDescription="">
+    <LC Name="Legislative Council" Vacancies="6" ElectionStatus="Final for the Night" ElectionStatusDescription="">
       <DistrictVotes CountDefinitionCode="LCFD" CountDefinitionName="Legislative Council Primary Count" DistrictCode="05" DistrictName="Mining and Pastoral" FormalVotes="16329" InformalVotes="573" LastUpdated="2017-03-11T23:41:21.323">
         <GroupVotes GroupBallotPaperOrder="1" GroupBallotPaperName="FLUORIDE FREE WA" TicketVotes="70" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="2" GroupBallotPaperName="Micro Business Party" TicketVotes="21" NonTicketVotes="0" />
@@ -6462,7 +6462,7 @@
     </LC>
   </ElectionRegion>
   <ElectionRegion Code="02" Name="North Metropolitan" Enrolment="391167">
-    <LC Name="Legislative Council" Vacancies="6" ElectionStatus="Count In Progress" ElectionStatusDescription="">
+    <LC Name="Legislative Council" Vacancies="6" ElectionStatus="Final for the Night" ElectionStatusDescription="">
       <DistrictVotes CountDefinitionCode="LCFD" CountDefinitionName="Legislative Council Primary Count" DistrictCode="02" DistrictName="North Metropolitan" FormalVotes="194517" InformalVotes="5301" LastUpdated="2017-03-11T23:36:43.43">
         <GroupVotes GroupBallotPaperOrder="1" GroupBallotPaperName="Independent" TicketVotes="920" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="2" GroupBallotPaperName="WA Labor" TicketVotes="73467" NonTicketVotes="0" />
@@ -9175,7 +9175,7 @@
     </LC>
   </ElectionRegion>
   <ElectionRegion Code="03" Name="South Metropolitan" Enrolment="409325">
-    <LC Name="Legislative Council" Vacancies="6" ElectionStatus="Count In Progress" ElectionStatusDescription="">
+    <LC Name="Legislative Council" Vacancies="6" ElectionStatus="Final for the Night" ElectionStatusDescription="">
       <DistrictVotes CountDefinitionCode="LCFD" CountDefinitionName="Legislative Council Primary Count" DistrictCode="03" DistrictName="South Metropolitan" FormalVotes="208512" InformalVotes="6982" LastUpdated="2017-03-11T23:41:05.56">
         <GroupVotes GroupBallotPaperOrder="1" GroupBallotPaperName="Socialist Alliance" TicketVotes="676" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="2" GroupBallotPaperName="Pauline Hanson's One Nation" TicketVotes="12685" NonTicketVotes="0" />
@@ -13283,28 +13283,28 @@
     </LC>
   </ElectionRegion>
   <ElectionRegion Code="06" Name="South West" Enrolment="226051">
-    <LC Name="Legislative Council" Vacancies="6" ElectionStatus="Count In Progress" ElectionStatusDescription="">
-      <DistrictVotes CountDefinitionCode="LCFD" CountDefinitionName="Legislative Council Primary Count" DistrictCode="06" DistrictName="South West" FormalVotes="85213" InformalVotes="2903" LastUpdated="2017-03-11T23:32:51.38">
-        <GroupVotes GroupBallotPaperOrder="1" GroupBallotPaperName="Shooters, Fishers and Farmers" TicketVotes="3893" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="2" GroupBallotPaperName="Micro Business Party" TicketVotes="115" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="3" GroupBallotPaperName="Family First" TicketVotes="784" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="4" GroupBallotPaperName="WA Labor" TicketVotes="31073" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="5" GroupBallotPaperName="The Greens (WA)" TicketVotes="7069" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="6" GroupBallotPaperName="Australian Christians" TicketVotes="1320" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="7" GroupBallotPaperName="Flux The System!" TicketVotes="361" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="8" GroupBallotPaperName="Liberal Party" TicketVotes="18197" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="9" GroupBallotPaperName="Julie Matheson for Western Australia" TicketVotes="102" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="10" GroupBallotPaperName="Independent" TicketVotes="153" NonTicketVotes="33" />
-        <GroupVotes GroupBallotPaperOrder="11" GroupBallotPaperName="Pauline Hanson's One Nation" TicketVotes="8048" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="12" GroupBallotPaperName="Animal Justice Party" TicketVotes="609" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="13" GroupBallotPaperName="FLUORIDE FREE WA" TicketVotes="243" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="14" GroupBallotPaperName="Liberal Democrats" TicketVotes="805" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="15" GroupBallotPaperName="Daylight Saving Party" TicketVotes="317" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="16" GroupBallotPaperName="THE NATIONALS" TicketVotes="11773" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="17" GroupBallotPaperName="Independent" TicketVotes="112" NonTicketVotes="0" />
+    <LC Name="Legislative Council" Vacancies="6" ElectionStatus="Final for the Night" ElectionStatusDescription="">
+      <DistrictVotes CountDefinitionCode="LCFD" CountDefinitionName="Legislative Council Primary Count" DistrictCode="06" DistrictName="South West" FormalVotes="86528" InformalVotes="2942" LastUpdated="2017-03-11T23:42:52.013">
+        <GroupVotes GroupBallotPaperOrder="1" GroupBallotPaperName="Shooters, Fishers and Farmers" TicketVotes="3934" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="2" GroupBallotPaperName="Micro Business Party" TicketVotes="116" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="3" GroupBallotPaperName="Family First" TicketVotes="805" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="4" GroupBallotPaperName="WA Labor" TicketVotes="31613" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="5" GroupBallotPaperName="The Greens (WA)" TicketVotes="7152" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="6" GroupBallotPaperName="Australian Christians" TicketVotes="1391" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="7" GroupBallotPaperName="Flux The System!" TicketVotes="364" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="8" GroupBallotPaperName="Liberal Party" TicketVotes="18417" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="9" GroupBallotPaperName="Julie Matheson for Western Australia" TicketVotes="103" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="10" GroupBallotPaperName="Independent" TicketVotes="156" NonTicketVotes="33" />
+        <GroupVotes GroupBallotPaperOrder="11" GroupBallotPaperName="Pauline Hanson's One Nation" TicketVotes="8165" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="12" GroupBallotPaperName="Animal Justice Party" TicketVotes="618" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="13" GroupBallotPaperName="FLUORIDE FREE WA" TicketVotes="244" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="14" GroupBallotPaperName="Liberal Democrats" TicketVotes="812" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="15" GroupBallotPaperName="Daylight Saving Party" TicketVotes="320" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="16" GroupBallotPaperName="THE NATIONALS" TicketVotes="11963" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="17" GroupBallotPaperName="Independent" TicketVotes="114" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="18" GroupBallotPaperName="Independent" TicketVotes="56" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="19" GroupBallotPaperName="Independent" TicketVotes="30" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="20" GroupBallotPaperName="Independent" TicketVotes="120" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="20" GroupBallotPaperName="Independent" TicketVotes="122" NonTicketVotes="0" />
         <CategoryVotes CategoryCode="00000001-0001-0001-0001-000000000001##0149530D-C132-425C-B9BF-36E67659A582##B15F2B0E-A99B-4877-940E-7E2C0CE34D6F" CategoryName="Albany PCYC" VoteGrouping="Polling Places" FormalVotes="891" InformalVotes="19" LastUpdated="2017-03-11T23:21:34.01">
           <GroupVotes GroupBallotPaperOrder="1" GroupBallotPaperName="Shooters, Fishers and Farmers" TicketVotes="27" NonTicketVotes="0" />
           <GroupVotes GroupBallotPaperOrder="2" GroupBallotPaperName="Micro Business Party" TicketVotes="0" NonTicketVotes="0" />
@@ -15482,6 +15482,28 @@
           <GroupVotes GroupBallotPaperOrder="18" GroupBallotPaperName="Independent" TicketVotes="0" NonTicketVotes="0" />
           <GroupVotes GroupBallotPaperOrder="19" GroupBallotPaperName="Independent" TicketVotes="1" NonTicketVotes="0" />
           <GroupVotes GroupBallotPaperOrder="20" GroupBallotPaperName="Independent" TicketVotes="0" NonTicketVotes="0" />
+        </CategoryVotes>
+        <CategoryVotes CategoryCode="00000001-0001-0001-0001-000000000001##EA48441E-7263-4D2D-A161-0C7B7B7C2B32##B15F2B0E-A99B-4877-940E-7E2C0CE34D6F" CategoryName="Yakamia Primary School" VoteGrouping="Polling Places" FormalVotes="1315" InformalVotes="39" LastUpdated="2017-03-11T23:42:52.013">
+          <GroupVotes GroupBallotPaperOrder="1" GroupBallotPaperName="Shooters, Fishers and Farmers" TicketVotes="41" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="2" GroupBallotPaperName="Micro Business Party" TicketVotes="1" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="3" GroupBallotPaperName="Family First" TicketVotes="21" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="4" GroupBallotPaperName="WA Labor" TicketVotes="540" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="5" GroupBallotPaperName="The Greens (WA)" TicketVotes="83" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="6" GroupBallotPaperName="Australian Christians" TicketVotes="71" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="7" GroupBallotPaperName="Flux The System!" TicketVotes="3" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="8" GroupBallotPaperName="Liberal Party" TicketVotes="220" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="9" GroupBallotPaperName="Julie Matheson for Western Australia" TicketVotes="1" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="10" GroupBallotPaperName="Independent" TicketVotes="3" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="11" GroupBallotPaperName="Pauline Hanson's One Nation" TicketVotes="117" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="12" GroupBallotPaperName="Animal Justice Party" TicketVotes="9" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="13" GroupBallotPaperName="FLUORIDE FREE WA" TicketVotes="1" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="14" GroupBallotPaperName="Liberal Democrats" TicketVotes="7" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="15" GroupBallotPaperName="Daylight Saving Party" TicketVotes="3" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="16" GroupBallotPaperName="THE NATIONALS" TicketVotes="190" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="17" GroupBallotPaperName="Independent" TicketVotes="2" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="18" GroupBallotPaperName="Independent" TicketVotes="0" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="19" GroupBallotPaperName="Independent" TicketVotes="0" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="20" GroupBallotPaperName="Independent" TicketVotes="2" NonTicketVotes="0" />
         </CategoryVotes>
         <CategoryVotes CategoryCode="00000001-0001-0001-0001-000000000001##EB64601B-E838-47E5-81CA-1681DAD8F564##87179E78-9478-4B42-B197-4BA592A7CF5B" CategoryName="Foundation Christian College" VoteGrouping="Polling Places" FormalVotes="1470" InformalVotes="101" LastUpdated="2017-03-11T22:26:10.913">
           <GroupVotes GroupBallotPaperOrder="1" GroupBallotPaperName="Shooters, Fishers and Farmers" TicketVotes="72" NonTicketVotes="0" />
