@@ -263,14 +263,31 @@
     </ElectionDistrict>
     <ElectionDistrict Code="GIR" Name="Girrawheen" Enrolment="28422">
       <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Count In Progress" ElectionStatusDescription="">
-        <DistrictVotes CountDefinitionCode="" CountDefinitionName="" DistrictCode="GIR" DistrictName="Girrawheen" FormalVotes="0" LastUpdated="0001-01-01T00:00:00">
-          <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="QUIRK, Margaret" Votes="0" />
+        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="GIR" DistrictName="Girrawheen" FormalVotes="16" InformalVotes="0" LastUpdated="2017-03-11T18:05:21.653">
+          <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="QUIRK, Margaret" Votes="10" />
           <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="SINGH, Sahaj" Votes="0" />
           <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="SHAH, Mushfiq" Votes="0" />
           <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="PHILLIPS, David" Votes="0" />
           <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="NGUYEN, Che Tam" Votes="0" />
           <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="ROACH, Raymond" Votes="0" />
+          <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="KRCOSKI, Dame" Votes="6" />
+          <CategoryVotes CategoryCode="SIR" CategoryName="Special Institutions,  Hospitals &amp; Remotes" VoteGrouping="Polling Places" FormalVotes="16" InformalVotes="0" LastUpdated="2017-03-11T18:05:21.653">
+            <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="QUIRK, Margaret" Votes="10" />
+            <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="SINGH, Sahaj" Votes="0" />
+            <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="SHAH, Mushfiq" Votes="0" />
+            <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="PHILLIPS, David" Votes="0" />
+            <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="NGUYEN, Che Tam" Votes="0" />
+            <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="ROACH, Raymond" Votes="0" />
+            <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="KRCOSKI, Dame" Votes="6" />
+          </CategoryVotes>
+        </DistrictVotes>
+        <DistrictVotes CountDefinitionCode="LAND" CountDefinitionName="Legislative Assembly Indicative 2CP" DistrictCode="GIR" DistrictName="Girrawheen" FormalVotes="0" ExhaustedVotes="0" LastUpdated="2017-03-11T18:06:41.09">
+          <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="QUIRK, Margaret" Votes="0" />
           <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="KRCOSKI, Dame" Votes="0" />
+          <CategoryVotes CategoryCode="SIR" CategoryName="Special Institutions,  Hospitals &amp; Remotes" VoteGrouping="Polling Places" FormalVotes="0" ExhaustedVotes="0" LastUpdated="2017-03-11T18:06:41.09">
+            <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="QUIRK, Margaret" Votes="0" />
+            <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="KRCOSKI, Dame" Votes="0" />
+          </CategoryVotes>
         </DistrictVotes>
       </LA>
     </ElectionDistrict>
