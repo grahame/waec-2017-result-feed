@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ElectionEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ElectionDate="2017-03-11" Name="11 March 2017 State General Election" xmlns="http://tempuri.org/MediaExportSchema.xsd">
   <ElectionRegion Code="04">
-    <LC ElectionStatus="Final for the Night" ElectionStatusDescription="">
+    <LC ElectionStatus="Count In Progress" ElectionStatusDescription="">
       <DistrictVotes CountDefinitionCode="LCFD" CountDefinitionName="Legislative Council Primary Count" DistrictCode="04" DistrictName="Agricultural" FormalVotes="83486" InformalVotes="2606" LastUpdated="2017-03-18T14:20:32.06">
         <GroupVotes GroupBallotPaperOrder="1" TicketVotes="20480" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="2" TicketVotes="773" NonTicketVotes="0" />
@@ -3087,7 +3087,7 @@
     </LC>
   </ElectionRegion>
   <ElectionRegion Code="01">
-    <LC ElectionStatus="Final for the Night" ElectionStatusDescription="">
+    <LC ElectionStatus="Count In Progress" ElectionStatusDescription="">
       <DistrictVotes CountDefinitionCode="LCFD" CountDefinitionName="Legislative Council Primary Count" DistrictCode="01" DistrictName="East Metropolitan" FormalVotes="316584" InformalVotes="10985" LastUpdated="2017-03-18T17:47:57.343">
         <GroupVotes GroupBallotPaperOrder="1" TicketVotes="2244" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="2" TicketVotes="648" NonTicketVotes="0" />
@@ -6446,7 +6446,7 @@
     </LC>
   </ElectionRegion>
   <ElectionRegion Code="05">
-    <LC ElectionStatus="Final for the Night" ElectionStatusDescription="">
+    <LC ElectionStatus="Count In Progress" ElectionStatusDescription="">
       <DistrictVotes CountDefinitionCode="LCFD" CountDefinitionName="Legislative Council Primary Count" DistrictCode="05" DistrictName="Mining and Pastoral" FormalVotes="47206" InformalVotes="1326" LastUpdated="2017-03-18T14:10:41.917">
         <GroupVotes GroupBallotPaperOrder="1" TicketVotes="171" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="2" TicketVotes="58" NonTicketVotes="0" />
@@ -7769,18 +7769,18 @@
     </LC>
   </ElectionRegion>
   <ElectionRegion Code="02">
-    <LC ElectionStatus="Final for the Night" ElectionStatusDescription="">
-      <DistrictVotes CountDefinitionCode="LCFD" CountDefinitionName="Legislative Council Primary Count" DistrictCode="02" DistrictName="North Metropolitan" FormalVotes="314817" InformalVotes="8361" LastUpdated="2017-03-18T17:45:57.357">
+    <LC ElectionStatus="Count In Progress" ElectionStatusDescription="">
+      <DistrictVotes CountDefinitionCode="LCFD" CountDefinitionName="Legislative Council Primary Count" DistrictCode="02" DistrictName="North Metropolitan" FormalVotes="314822" InformalVotes="8361" LastUpdated="2017-03-19T10:04:59.723">
         <GroupVotes GroupBallotPaperOrder="1" TicketVotes="1575" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="2" TicketVotes="119171" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="3" TicketVotes="20305" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="4" TicketVotes="2424" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="2" TicketVotes="119190" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="3" TicketVotes="20306" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="4" TicketVotes="2425" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="5" TicketVotes="2185" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="6" TicketVotes="1910" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="7" TicketVotes="28963" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="7" TicketVotes="28964" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="8" TicketVotes="742" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="9" TicketVotes="1096" NonTicketVotes="0" />
-        <GroupVotes GroupBallotPaperOrder="10" TicketVotes="117396" NonTicketVotes="0" />
+        <GroupVotes GroupBallotPaperOrder="10" TicketVotes="117379" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="11" TicketVotes="1185" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="12" TicketVotes="3596" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="13" TicketVotes="3391" NonTicketVotes="0" />
@@ -10730,17 +10730,17 @@
           <GroupVotes GroupBallotPaperOrder="18" TicketVotes="3" NonTicketVotes="0" />
           <GroupVotes GroupBallotPaperOrder="19" TicketVotes="2" NonTicketVotes="0" />
         </CategoryVotes>
-        <CategoryVotes CategoryCode="AV" CategoryName="Absent Votes" VoteGrouping="Count Centre" FormalVotes="37469" InformalVotes="1138" LastUpdated="2017-03-18T17:45:57.357">
+        <CategoryVotes CategoryCode="AV" CategoryName="Absent Votes" VoteGrouping="Count Centre" FormalVotes="37474" InformalVotes="1138" LastUpdated="2017-03-19T10:04:59.723">
           <GroupVotes GroupBallotPaperOrder="1" TicketVotes="284" NonTicketVotes="0" />
-          <GroupVotes GroupBallotPaperOrder="2" TicketVotes="13678" NonTicketVotes="0" />
-          <GroupVotes GroupBallotPaperOrder="3" TicketVotes="2358" NonTicketVotes="0" />
-          <GroupVotes GroupBallotPaperOrder="4" TicketVotes="371" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="2" TicketVotes="13697" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="3" TicketVotes="2359" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="4" TicketVotes="372" NonTicketVotes="0" />
           <GroupVotes GroupBallotPaperOrder="5" TicketVotes="329" NonTicketVotes="0" />
           <GroupVotes GroupBallotPaperOrder="6" TicketVotes="307" NonTicketVotes="0" />
-          <GroupVotes GroupBallotPaperOrder="7" TicketVotes="4589" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="7" TicketVotes="4590" NonTicketVotes="0" />
           <GroupVotes GroupBallotPaperOrder="8" TicketVotes="83" NonTicketVotes="0" />
           <GroupVotes GroupBallotPaperOrder="9" TicketVotes="281" NonTicketVotes="0" />
-          <GroupVotes GroupBallotPaperOrder="10" TicketVotes="12364" NonTicketVotes="0" />
+          <GroupVotes GroupBallotPaperOrder="10" TicketVotes="12347" NonTicketVotes="0" />
           <GroupVotes GroupBallotPaperOrder="11" TicketVotes="254" NonTicketVotes="0" />
           <GroupVotes GroupBallotPaperOrder="12" TicketVotes="628" NonTicketVotes="0" />
           <GroupVotes GroupBallotPaperOrder="13" TicketVotes="439" NonTicketVotes="0" />
@@ -10818,7 +10818,7 @@
     </LC>
   </ElectionRegion>
   <ElectionRegion Code="03">
-    <LC ElectionStatus="Final for the Night" ElectionStatusDescription="">
+    <LC ElectionStatus="Count In Progress" ElectionStatusDescription="">
       <DistrictVotes CountDefinitionCode="LCFD" CountDefinitionName="Legislative Council Primary Count" DistrictCode="03" DistrictName="South Metropolitan" FormalVotes="329977" InformalVotes="10125" LastUpdated="2017-03-18T17:21:51.037">
         <GroupVotes GroupBallotPaperOrder="1" TicketVotes="971" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="2" TicketVotes="22927" NonTicketVotes="0" />
@@ -15115,7 +15115,7 @@
     </LC>
   </ElectionRegion>
   <ElectionRegion Code="06">
-    <LC ElectionStatus="Final for the Night" ElectionStatusDescription="">
+    <LC ElectionStatus="Count In Progress" ElectionStatusDescription="">
       <DistrictVotes CountDefinitionCode="LCFD" CountDefinitionName="Legislative Council Primary Count" DistrictCode="06" DistrictName="South West" FormalVotes="183931" InformalVotes="5767" LastUpdated="2017-03-18T18:12:43.443">
         <GroupVotes GroupBallotPaperOrder="1" TicketVotes="7288" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="2" TicketVotes="329" NonTicketVotes="0" />
