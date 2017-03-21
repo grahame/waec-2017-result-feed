@@ -990,8 +990,8 @@
       </LA>
     </ElectionDistrict>
     <ElectionDistrict Code="FOR" Name="Forrestfield" Enrolment="26994">
-      <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Count In Progress" ElectionStatusDescription="">
-        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="FOR" DistrictName="Forrestfield" FormalVotes="22353" InformalVotes="1217" LastUpdated="2017-03-21T16:04:44.973">
+      <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Results Declared" ElectionStatusDescription="">
+        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="FOR" DistrictName="Forrestfield" FormalVotes="22353" InformalVotes="1217" LastUpdated="2017-03-21T16:06:05.097">
           <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="JAGO, Ashley" Votes="747" />
           <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="PRICE, Stephen" Votes="10357" />
           <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="CROOK, Brett" Votes="631" />
@@ -1071,7 +1071,7 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="BENNETT, Jenny" Votes="153" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="MARSHALL, Eugene" Votes="128" />
           </OrdinaryPollingPlaceVotes>
-          <CategoryVotes CategoryCode="SIR" CategoryName="Special Institutions,  Hospitals &amp; Remotes" VoteGrouping="Polling Places" FormalVotes="73" InformalVotes="8" LastUpdated="2017-03-11T18:39:24.2">
+          <CategoryVotes CategoryCode="SIR" CategoryName="Special Institutions,  Hospitals &amp; Remotes" VoteGrouping="Polling Places" FormalVotes="73" InformalVotes="8" LastUpdated="2017-03-21T16:06:05.097">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="JAGO, Ashley" Votes="1" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="PRICE, Stephen" Votes="33" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="CROOK, Brett" Votes="3" />
@@ -1089,7 +1089,7 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="BENNETT, Jenny" Votes="250" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="MARSHALL, Eugene" Votes="225" />
           </CategoryVotes>
-          <CategoryVotes CategoryCode="POV" CategoryName="Early Votes (by Post)" VoteGrouping="Count Centre" FormalVotes="2158" InformalVotes="100" LastUpdated="2017-03-21T15:42:30.513">
+          <CategoryVotes CategoryCode="POV" CategoryName="Early Votes (by Post)" VoteGrouping="Count Centre" FormalVotes="2158" InformalVotes="100" LastUpdated="2017-03-21T16:05:07.893">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="JAGO, Ashley" Votes="53" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="PRICE, Stephen" Votes="925" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="CROOK, Brett" Votes="47" />
@@ -1098,7 +1098,7 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="BENNETT, Jenny" Votes="272" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="MARSHALL, Eugene" Votes="112" />
           </CategoryVotes>
-          <CategoryVotes CategoryCode="PPV" CategoryName="Early Votes (In Person)" VoteGrouping="Count Centre" FormalVotes="2183" InformalVotes="82" LastUpdated="2017-03-21T15:44:17.593">
+          <CategoryVotes CategoryCode="PPV" CategoryName="Early Votes (In Person)" VoteGrouping="Count Centre" FormalVotes="2183" InformalVotes="82" LastUpdated="2017-03-21T16:05:35.333">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="JAGO, Ashley" Votes="71" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="PRICE, Stephen" Votes="998" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="CROOK, Brett" Votes="37" />
@@ -1107,7 +1107,7 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="BENNETT, Jenny" Votes="279" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="MARSHALL, Eugene" Votes="106" />
           </CategoryVotes>
-          <CategoryVotes CategoryCode="PRV" CategoryName="Provisional Votes" VoteGrouping="Count Centre" FormalVotes="8" InformalVotes="0" LastUpdated="2017-03-17T11:05:19.923">
+          <CategoryVotes CategoryCode="PRV" CategoryName="Provisional Votes" VoteGrouping="Count Centre" FormalVotes="8" InformalVotes="0" LastUpdated="2017-03-21T16:05:42.817">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="JAGO, Ashley" Votes="1" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="PRICE, Stephen" Votes="3" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="CROOK, Brett" Votes="0" />
@@ -1836,7 +1836,7 @@
       </LA>
     </ElectionDistrict>
     <ElectionDistrict Code="MIR" Name="Mirrabooka" Enrolment="27798">
-      <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Count In Progress" ElectionStatusDescription="">
+      <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Results Declared" ElectionStatusDescription="">
         <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="MIR" DistrictName="Mirrabooka" FormalVotes="21521" InformalVotes="2009" LastUpdated="2017-03-21T15:04:19.763">
           <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="MUBARAK, Kim" Votes="546" />
           <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="CHEN, Lily" Votes="5336" />
@@ -2232,7 +2232,7 @@
       </LA>
     </ElectionDistrict>
     <ElectionDistrict Code="MTL" Name="Mount Lawley" Enrolment="28075">
-      <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Count In Progress" ElectionStatusDescription="">
+      <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Results Declared" ElectionStatusDescription="">
         <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="MTL" DistrictName="Mount Lawley" FormalVotes="23633" InformalVotes="1099" LastUpdated="2017-03-20T17:02:09.417">
           <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="VAN BURGEL, Janelle" Votes="583" />
           <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="SUTHERLAND, Michael" Votes="9621" />
@@ -2476,14 +2476,14 @@
       </LA>
     </ElectionDistrict>
     <ElectionDistrict Code="SWN" Name="Swan Hills" Enrolment="32573">
-      <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Count In Progress" ElectionStatusDescription="">
-        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="SWN" DistrictName="Swan Hills" FormalVotes="27151" InformalVotes="1231" LastUpdated="2017-03-21T16:02:10.187">
+      <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Results Declared" ElectionStatusDescription="">
+        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="SWN" DistrictName="Swan Hills" FormalVotes="27442" InformalVotes="1231" LastUpdated="2017-03-21T16:28:33.82">
           <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="SHAW, Jessica" Votes="14335" />
-          <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="OLD, Sandra" Votes="2721" />
+          <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="OLD, Sandra" Votes="3011" />
           <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="BHOWANIAH, Danusha" Votes="275" />
           <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="ALBAN, Frank" Votes="7388" />
           <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="SINGH, Lucky" Votes="512" />
-          <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="WEBB, Evan" Votes="1920" />
+          <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="WEBB, Evan" Votes="1921" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="1" OrdinaryPollingPlaceName="Arbor Grove Primary School" VoteGrouping="Polling Places" FormalVotes="2238" InformalVotes="84" LastUpdated="2017-03-21T12:29:17.897">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="SHAW, Jessica" Votes="1360" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="OLD, Sandra" Votes="204" />
@@ -2508,9 +2508,9 @@
             <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="SINGH, Lucky" Votes="12" />
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="WEBB, Evan" Votes="88" />
           </OrdinaryPollingPlaceVotes>
-          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="4" OrdinaryPollingPlaceName="Ellen Stirling Primary School" VoteGrouping="Polling Places" FormalVotes="2569" InformalVotes="113" LastUpdated="2017-03-21T15:05:37.497">
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="4" OrdinaryPollingPlaceName="Ellen Stirling Primary School" VoteGrouping="Polling Places" FormalVotes="2859" InformalVotes="113" LastUpdated="2017-03-21T16:27:12.493">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="SHAW, Jessica" Votes="1768" />
-            <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="OLD, Sandra" Votes="2" />
+            <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="OLD, Sandra" Votes="292" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="BHOWANIAH, Danusha" Votes="24" />
             <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="ALBAN, Frank" Votes="547" />
             <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="SINGH, Lucky" Votes="57" />
@@ -2556,13 +2556,13 @@
             <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="SINGH, Lucky" Votes="9" />
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="WEBB, Evan" Votes="82" />
           </OrdinaryPollingPlaceVotes>
-          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="10" OrdinaryPollingPlaceName="Swan Valley Anglican Community School" VoteGrouping="Polling Places" FormalVotes="2628" InformalVotes="99" LastUpdated="2017-03-21T12:32:57.713">
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="10" OrdinaryPollingPlaceName="Swan Valley Anglican Community School" VoteGrouping="Polling Places" FormalVotes="2629" InformalVotes="99" LastUpdated="2017-03-21T16:28:33.82">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="SHAW, Jessica" Votes="1432" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="OLD, Sandra" Votes="219" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="BHOWANIAH, Danusha" Votes="19" />
             <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="ALBAN, Frank" Votes="748" />
             <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="SINGH, Lucky" Votes="56" />
-            <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="WEBB, Evan" Votes="154" />
+            <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="WEBB, Evan" Votes="155" />
           </OrdinaryPollingPlaceVotes>
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="11" OrdinaryPollingPlaceName="Upper Swan Primary School" VoteGrouping="Polling Places" FormalVotes="1417" InformalVotes="64" LastUpdated="2017-03-21T12:33:15.853">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="SHAW, Jessica" Votes="575" />
@@ -2696,7 +2696,7 @@
       </LA>
     </ElectionDistrict>
     <ElectionDistrict Code="THN" Name="Thornlie" Enrolment="28269">
-      <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Count In Progress" ElectionStatusDescription="">
+      <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Results Declared" ElectionStatusDescription="">
         <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="THN" DistrictName="Thornlie" FormalVotes="22768" InformalVotes="1451" LastUpdated="2017-03-20T17:34:40.573">
           <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="COALES, Rob" Votes="5682" />
           <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="BARAIOLO, Sandy" Votes="1747" />
@@ -2938,7 +2938,7 @@
       </LA>
     </ElectionDistrict>
     <ElectionDistrict Code="WES" Name="West Swan" Enrolment="28323">
-      <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Count In Progress" ElectionStatusDescription="">
+      <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Results Declared" ElectionStatusDescription="">
         <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="WES" DistrictName="West Swan" FormalVotes="23568" InformalVotes="1473" LastUpdated="2017-03-21T16:04:14.517">
           <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="LAWRENCE, James" Votes="569" />
           <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="McMULLAN, Beth" Votes="1721" />
@@ -3960,11 +3960,11 @@
     </ElectionDistrict>
     <ElectionDistrict Code="CHU" Name="Churchlands" Enrolment="26865">
       <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Count In Progress" ElectionStatusDescription="">
-        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="CHU" DistrictName="Churchlands" FormalVotes="23387" InformalVotes="785" LastUpdated="2017-03-21T15:57:35.95">
+        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="CHU" DistrictName="Churchlands" FormalVotes="23384" InformalVotes="785" LastUpdated="2017-03-21T16:26:40.523">
           <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="L'ESTRANGE, Sean" Votes="12841" />
-          <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="BIVOLTSIS, Jim" Votes="1057" />
+          <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="BIVOLTSIS, Jim" Votes="1056" />
           <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="PHILLIPS, Paul" Votes="481" />
-          <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="GURAK, Joanna" Votes="3105" />
+          <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="GURAK, Joanna" Votes="3103" />
           <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="GARBER, Jack" Votes="245" />
           <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="GILL, Daljeet" Votes="348" />
           <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="LILBURNE, Paul" Votes="5310" />
@@ -3986,11 +3986,11 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="GILL, Daljeet" Votes="12" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="LILBURNE, Paul" Votes="197" />
           </OrdinaryPollingPlaceVotes>
-          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="3" OrdinaryPollingPlaceName="Floreat Park Primary School" VoteGrouping="Polling Places" FormalVotes="1373" InformalVotes="33" LastUpdated="2017-03-21T14:05:22.217">
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="3" OrdinaryPollingPlaceName="Floreat Park Primary School" VoteGrouping="Polling Places" FormalVotes="1371" InformalVotes="33" LastUpdated="2017-03-21T16:26:40.523">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="L'ESTRANGE, Sean" Votes="857" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="BIVOLTSIS, Jim" Votes="90" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="PHILLIPS, Paul" Votes="8" />
-            <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="GURAK, Joanna" Votes="174" />
+            <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="GURAK, Joanna" Votes="172" />
             <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="GARBER, Jack" Votes="3" />
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="GILL, Daljeet" Votes="19" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="LILBURNE, Paul" Votes="222" />
@@ -4094,9 +4094,9 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="GILL, Daljeet" Votes="22" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="LILBURNE, Paul" Votes="468" />
           </CategoryVotes>
-          <CategoryVotes CategoryCode="PPV" CategoryName="Early Votes (In Person)" VoteGrouping="Count Centre" FormalVotes="1896" InformalVotes="55" LastUpdated="2017-03-21T09:53:24.493">
+          <CategoryVotes CategoryCode="PPV" CategoryName="Early Votes (In Person)" VoteGrouping="Count Centre" FormalVotes="1895" InformalVotes="55" LastUpdated="2017-03-21T16:20:06.423">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="L'ESTRANGE, Sean" Votes="1000" />
-            <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="BIVOLTSIS, Jim" Votes="48" />
+            <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="BIVOLTSIS, Jim" Votes="47" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="PHILLIPS, Paul" Votes="56" />
             <CandidateVotes CandidateBallotPaperOrder="4" CandidateBallotPaperName="GURAK, Joanna" Votes="224" />
             <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="GARBER, Jack" Votes="15" />
@@ -6364,8 +6364,8 @@
       </LA>
     </ElectionDistrict>
     <ElectionDistrict Code="BAT" Name="Bateman" Enrolment="26024">
-      <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Count In Progress" ElectionStatusDescription="">
-        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="BAT" DistrictName="Bateman" FormalVotes="22569" InformalVotes="792" LastUpdated="2017-03-21T15:25:05.733">
+      <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Results Declared" ElectionStatusDescription="">
+        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="BAT" DistrictName="Bateman" FormalVotes="22569" InformalVotes="792" LastUpdated="2017-03-21T16:13:31.823">
           <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="NALDER, Dean" Votes="11515" />
           <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="HUGGINS, Don" Votes="698" />
           <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="MASIH, Jonathan" Votes="334" />
@@ -6373,7 +6373,7 @@
           <CandidateVotes CandidateBallotPaperOrder="5" CandidateBallotPaperName="FITZGERALD, Tomas" Votes="6469" />
           <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="ARNOLD, Adrian" Votes="206" />
           <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="WILMOT, Adie" Votes="2315" />
-          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="1" OrdinaryPollingPlaceName="Applecross Primary School" VoteGrouping="Polling Places" FormalVotes="3013" InformalVotes="100" LastUpdated="2017-03-21T11:36:16.583">
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="1" OrdinaryPollingPlaceName="Applecross Primary School" VoteGrouping="Polling Places" FormalVotes="3013" InformalVotes="100" LastUpdated="2017-03-21T16:08:40.023">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="NALDER, Dean" Votes="1829" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="HUGGINS, Don" Votes="75" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="MASIH, Jonathan" Votes="44" />
@@ -6382,7 +6382,7 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="ARNOLD, Adrian" Votes="23" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="WILMOT, Adie" Votes="287" />
           </OrdinaryPollingPlaceVotes>
-          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="2" OrdinaryPollingPlaceName="Ardross Primary School" VoteGrouping="Polling Places" FormalVotes="1064" InformalVotes="37" LastUpdated="2017-03-21T11:36:39.973">
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="2" OrdinaryPollingPlaceName="Ardross Primary School" VoteGrouping="Polling Places" FormalVotes="1064" InformalVotes="37" LastUpdated="2017-03-21T16:08:50.037">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="NALDER, Dean" Votes="478" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="HUGGINS, Don" Votes="38" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="MASIH, Jonathan" Votes="21" />
@@ -6391,7 +6391,7 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="ARNOLD, Adrian" Votes="10" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="WILMOT, Adie" Votes="136" />
           </OrdinaryPollingPlaceVotes>
-          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="3" OrdinaryPollingPlaceName="Bateman Primary School" VoteGrouping="Polling Places" FormalVotes="1494" InformalVotes="45" LastUpdated="2017-03-21T15:25:05.733">
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="3" OrdinaryPollingPlaceName="Bateman Primary School" VoteGrouping="Polling Places" FormalVotes="1494" InformalVotes="45" LastUpdated="2017-03-21T16:09:14.24">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="NALDER, Dean" Votes="655" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="HUGGINS, Don" Votes="75" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="MASIH, Jonathan" Votes="15" />
@@ -6400,7 +6400,7 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="ARNOLD, Adrian" Votes="14" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="WILMOT, Adie" Votes="124" />
           </OrdinaryPollingPlaceVotes>
-          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="4" OrdinaryPollingPlaceName="Booragoon Primary School" VoteGrouping="Polling Places" FormalVotes="1602" InformalVotes="59" LastUpdated="2017-03-21T11:37:19.38">
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="4" OrdinaryPollingPlaceName="Booragoon Primary School" VoteGrouping="Polling Places" FormalVotes="1602" InformalVotes="59" LastUpdated="2017-03-21T16:09:38.993">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="NALDER, Dean" Votes="739" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="HUGGINS, Don" Votes="44" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="MASIH, Jonathan" Votes="32" />
@@ -6409,7 +6409,7 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="ARNOLD, Adrian" Votes="14" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="WILMOT, Adie" Votes="210" />
           </OrdinaryPollingPlaceVotes>
-          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="5" OrdinaryPollingPlaceName="Brentwood Primary School" VoteGrouping="Polling Places" FormalVotes="1935" InformalVotes="73" LastUpdated="2017-03-21T11:37:37.63">
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="5" OrdinaryPollingPlaceName="Brentwood Primary School" VoteGrouping="Polling Places" FormalVotes="1935" InformalVotes="73" LastUpdated="2017-03-21T16:10:00.913">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="NALDER, Dean" Votes="882" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="HUGGINS, Don" Votes="71" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="MASIH, Jonathan" Votes="29" />
@@ -6418,7 +6418,7 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="ARNOLD, Adrian" Votes="11" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="WILMOT, Adie" Votes="223" />
           </OrdinaryPollingPlaceVotes>
-          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="6" OrdinaryPollingPlaceName="Corpus Christi College" VoteGrouping="Polling Places" FormalVotes="246" InformalVotes="6" LastUpdated="2017-03-11T19:10:51.49">
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="6" OrdinaryPollingPlaceName="Corpus Christi College" VoteGrouping="Polling Places" FormalVotes="246" InformalVotes="6" LastUpdated="2017-03-21T16:10:33.57">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="NALDER, Dean" Votes="123" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="HUGGINS, Don" Votes="10" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="MASIH, Jonathan" Votes="1" />
@@ -6427,7 +6427,7 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="ARNOLD, Adrian" Votes="5" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="WILMOT, Adie" Votes="18" />
           </OrdinaryPollingPlaceVotes>
-          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="7" OrdinaryPollingPlaceName="Len Shearer Pavilion" VoteGrouping="Polling Places" FormalVotes="470" InformalVotes="12" LastUpdated="2017-03-14T11:21:47.39">
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="7" OrdinaryPollingPlaceName="Len Shearer Pavilion" VoteGrouping="Polling Places" FormalVotes="470" InformalVotes="12" LastUpdated="2017-03-21T16:10:56.557">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="NALDER, Dean" Votes="258" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="HUGGINS, Don" Votes="10" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="MASIH, Jonathan" Votes="8" />
@@ -6436,7 +6436,7 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="ARNOLD, Adrian" Votes="1" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="WILMOT, Adie" Votes="66" />
           </OrdinaryPollingPlaceVotes>
-          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="8" OrdinaryPollingPlaceName="Mt Pleasant Primary School" VoteGrouping="Polling Places" FormalVotes="2460" InformalVotes="90" LastUpdated="2017-03-21T11:38:11.413">
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="8" OrdinaryPollingPlaceName="Mt Pleasant Primary School" VoteGrouping="Polling Places" FormalVotes="2460" InformalVotes="90" LastUpdated="2017-03-21T16:11:15.18">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="NALDER, Dean" Votes="1354" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="HUGGINS, Don" Votes="59" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="MASIH, Jonathan" Votes="40" />
@@ -6445,7 +6445,7 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="ARNOLD, Adrian" Votes="22" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="WILMOT, Adie" Votes="233" />
           </OrdinaryPollingPlaceVotes>
-          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="9" OrdinaryPollingPlaceName="St Benedict's Hall" VoteGrouping="Polling Places" FormalVotes="1037" InformalVotes="26" LastUpdated="2017-03-14T11:10:49.27">
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="9" OrdinaryPollingPlaceName="St Benedict's Hall" VoteGrouping="Polling Places" FormalVotes="1037" InformalVotes="26" LastUpdated="2017-03-21T16:11:31.54">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="NALDER, Dean" Votes="586" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="HUGGINS, Don" Votes="34" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="MASIH, Jonathan" Votes="19" />
@@ -6454,7 +6454,7 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="ARNOLD, Adrian" Votes="5" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="WILMOT, Adie" Votes="92" />
           </OrdinaryPollingPlaceVotes>
-          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="10" OrdinaryPollingPlaceName="Winthrop Primary School" VoteGrouping="Polling Places" FormalVotes="2662" InformalVotes="109" LastUpdated="2017-03-21T11:38:30.193">
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="10" OrdinaryPollingPlaceName="Winthrop Primary School" VoteGrouping="Polling Places" FormalVotes="2662" InformalVotes="109" LastUpdated="2017-03-21T16:11:51.54">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="NALDER, Dean" Votes="1268" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="HUGGINS, Don" Votes="104" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="MASIH, Jonathan" Votes="43" />
@@ -6463,7 +6463,7 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="ARNOLD, Adrian" Votes="25" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="WILMOT, Adie" Votes="206" />
           </OrdinaryPollingPlaceVotes>
-          <CategoryVotes CategoryCode="SIR" CategoryName="Special Institutions,  Hospitals &amp; Remotes" VoteGrouping="Polling Places" FormalVotes="197" InformalVotes="6" LastUpdated="2017-03-14T11:16:02.9">
+          <CategoryVotes CategoryCode="SIR" CategoryName="Special Institutions,  Hospitals &amp; Remotes" VoteGrouping="Polling Places" FormalVotes="197" InformalVotes="6" LastUpdated="2017-03-21T16:13:07.043">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="NALDER, Dean" Votes="126" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="HUGGINS, Don" Votes="8" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="MASIH, Jonathan" Votes="0" />
@@ -6472,7 +6472,7 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="ARNOLD, Adrian" Votes="3" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="WILMOT, Adie" Votes="8" />
           </CategoryVotes>
-          <CategoryVotes CategoryCode="AV" CategoryName="Absent Votes" VoteGrouping="Count Centre" FormalVotes="2126" InformalVotes="109" LastUpdated="2017-03-21T11:38:55.553">
+          <CategoryVotes CategoryCode="AV" CategoryName="Absent Votes" VoteGrouping="Count Centre" FormalVotes="2126" InformalVotes="109" LastUpdated="2017-03-21T16:12:10.79">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="NALDER, Dean" Votes="953" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="HUGGINS, Don" Votes="58" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="MASIH, Jonathan" Votes="24" />
@@ -6481,7 +6481,7 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="ARNOLD, Adrian" Votes="18" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="WILMOT, Adie" Votes="347" />
           </CategoryVotes>
-          <CategoryVotes CategoryCode="POV" CategoryName="Early Votes (by Post)" VoteGrouping="Count Centre" FormalVotes="2094" InformalVotes="74" LastUpdated="2017-03-21T11:39:18.663">
+          <CategoryVotes CategoryCode="POV" CategoryName="Early Votes (by Post)" VoteGrouping="Count Centre" FormalVotes="2094" InformalVotes="74" LastUpdated="2017-03-21T16:12:32.183">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="NALDER, Dean" Votes="1156" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="HUGGINS, Don" Votes="66" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="MASIH, Jonathan" Votes="25" />
@@ -6490,7 +6490,7 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="ARNOLD, Adrian" Votes="34" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="WILMOT, Adie" Votes="145" />
           </CategoryVotes>
-          <CategoryVotes CategoryCode="PPV" CategoryName="Early Votes (In Person)" VoteGrouping="Count Centre" FormalVotes="2161" InformalVotes="46" LastUpdated="2017-03-21T15:04:20.513">
+          <CategoryVotes CategoryCode="PPV" CategoryName="Early Votes (In Person)" VoteGrouping="Count Centre" FormalVotes="2161" InformalVotes="46" LastUpdated="2017-03-21T16:12:54.29">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="NALDER, Dean" Votes="1105" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="HUGGINS, Don" Votes="46" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="MASIH, Jonathan" Votes="33" />
@@ -6499,7 +6499,7 @@
             <CandidateVotes CandidateBallotPaperOrder="6" CandidateBallotPaperName="ARNOLD, Adrian" Votes="21" />
             <CandidateVotes CandidateBallotPaperOrder="7" CandidateBallotPaperName="WILMOT, Adie" Votes="219" />
           </CategoryVotes>
-          <CategoryVotes CategoryCode="PRV" CategoryName="Provisional Votes" VoteGrouping="Count Centre" FormalVotes="8" InformalVotes="0" LastUpdated="2017-03-16T17:53:55.98">
+          <CategoryVotes CategoryCode="PRV" CategoryName="Provisional Votes" VoteGrouping="Count Centre" FormalVotes="8" InformalVotes="0" LastUpdated="2017-03-21T16:13:31.823">
             <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="NALDER, Dean" Votes="3" />
             <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="HUGGINS, Don" Votes="0" />
             <CandidateVotes CandidateBallotPaperOrder="3" CandidateBallotPaperName="MASIH, Jonathan" Votes="0" />
@@ -6775,7 +6775,7 @@
       </LA>
     </ElectionDistrict>
     <ElectionDistrict Code="CAN" Name="Cannington" Enrolment="25734">
-      <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Count In Progress" ElectionStatusDescription="">
+      <LA Name="Legislative Assembly" Vacancies="1" ElectionStatus="Results Declared" ElectionStatusDescription="">
         <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="CAN" DistrictName="Cannington" FormalVotes="20871" InformalVotes="1086" LastUpdated="2017-03-21T15:39:40.59">
           <CandidateVotes CandidateBallotPaperOrder="1" CandidateBallotPaperName="JACOBS, Jesse" Votes="4970" />
           <CandidateVotes CandidateBallotPaperOrder="2" CandidateBallotPaperName="THOMPSON, Elliot" Votes="1850" />
