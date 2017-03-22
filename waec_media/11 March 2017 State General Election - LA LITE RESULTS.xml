@@ -2214,7 +2214,7 @@
       </LA>
     </ElectionDistrict>
     <ElectionDistrict Code="MOO">
-      <LA ElectionStatus="Count In Progress" ElectionStatusDescription="">
+      <LA ElectionStatus="Results Declared" ElectionStatusDescription="">
         <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="MOO" FormalVotes="21195" InformalVotes="876" LastUpdated="2017-03-22T17:53:20.69">
           <CandidateVotes CandidateBallotPaperOrder="1" PollingPlaceVotes="290" CountCentreVotes="132" TotalVotes="422" />
           <CandidateVotes CandidateBallotPaperOrder="2" PollingPlaceVotes="1725" CountCentreVotes="1037" TotalVotes="2762" />
@@ -3036,17 +3036,17 @@
     </ElectionDistrict>
     <ElectionDistrict Code="WBW">
       <LA ElectionStatus="Count In Progress" ElectionStatusDescription="">
-        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="WBW" FormalVotes="23574" InformalVotes="1079" LastUpdated="2017-03-22T17:46:07.323">
+        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="WBW" FormalVotes="23572" InformalVotes="1080" LastUpdated="2017-03-22T18:28:10.027">
           <CandidateVotes CandidateBallotPaperOrder="1" PollingPlaceVotes="949" CountCentreVotes="395" TotalVotes="1344" />
           <CandidateVotes CandidateBallotPaperOrder="2" PollingPlaceVotes="6187" CountCentreVotes="2452" TotalVotes="8639" />
           <CandidateVotes CandidateBallotPaperOrder="3" PollingPlaceVotes="1047" CountCentreVotes="594" TotalVotes="1641" />
-          <CandidateVotes CandidateBallotPaperOrder="4" PollingPlaceVotes="2494" CountCentreVotes="898" TotalVotes="3392" />
-          <CandidateVotes CandidateBallotPaperOrder="5" PollingPlaceVotes="3454" CountCentreVotes="1399" TotalVotes="4853" />
-          <CandidateVotes CandidateBallotPaperOrder="6" PollingPlaceVotes="2645" CountCentreVotes="1060" TotalVotes="3705" />
+          <CandidateVotes CandidateBallotPaperOrder="4" PollingPlaceVotes="2493" CountCentreVotes="898" TotalVotes="3391" />
+          <CandidateVotes CandidateBallotPaperOrder="5" PollingPlaceVotes="3455" CountCentreVotes="1399" TotalVotes="4854" />
+          <CandidateVotes CandidateBallotPaperOrder="6" PollingPlaceVotes="2642" CountCentreVotes="1061" TotalVotes="3703" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="1" VoteGrouping="Polling Places" FormalVotes="847" InformalVotes="51" LastUpdated="2017-03-22T14:54:17.953" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="2" VoteGrouping="Polling Places" FormalVotes="573" InformalVotes="24" LastUpdated="2017-03-22T14:54:35.687" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="3" VoteGrouping="Polling Places" FormalVotes="1447" InformalVotes="68" LastUpdated="2017-03-22T14:54:53.593" />
-          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="4" VoteGrouping="Polling Places" FormalVotes="1866" InformalVotes="69" LastUpdated="2017-03-22T17:44:15.433" />
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="4" VoteGrouping="Polling Places" FormalVotes="1864" InformalVotes="69" LastUpdated="2017-03-22T18:28:10.027" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="5" VoteGrouping="Polling Places" FormalVotes="720" InformalVotes="46" LastUpdated="2017-03-22T14:55:27.843" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="6" VoteGrouping="Polling Places" FormalVotes="1274" InformalVotes="48" LastUpdated="2017-03-22T14:55:44.533" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="7" VoteGrouping="Polling Places" FormalVotes="376" InformalVotes="20" LastUpdated="2017-03-22T14:56:21.22" />
@@ -3065,10 +3065,10 @@
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="20" VoteGrouping="Polling Places" FormalVotes="419" InformalVotes="14" LastUpdated="2017-03-22T15:00:36.473" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="21" VoteGrouping="Polling Places" FormalVotes="157" InformalVotes="2" LastUpdated="2017-03-22T15:00:53.13" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="22" VoteGrouping="Polling Places" FormalVotes="369" InformalVotes="19" LastUpdated="2017-03-22T15:01:09.02" />
-          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="23" VoteGrouping="Polling Places" FormalVotes="799" InformalVotes="35" LastUpdated="2017-03-22T17:45:38.62" />
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="23" VoteGrouping="Polling Places" FormalVotes="798" InformalVotes="36" LastUpdated="2017-03-22T18:16:58.473" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="24" VoteGrouping="Polling Places" FormalVotes="240" InformalVotes="11" LastUpdated="2017-03-22T15:03:11.82" />
           <CategoryVotes CategoryCode="SIR" CategoryName="Special Institutions,  Hospitals &amp; Remotes" VoteGrouping="Polling Places" FormalVotes="57" InformalVotes="0" LastUpdated="2017-03-22T15:06:14.9" />
-          <CategoryVotes CategoryCode="AV" CategoryName="Absent Votes" VoteGrouping="Count Centre" FormalVotes="2425" InformalVotes="76" LastUpdated="2017-03-22T15:03:34.117" />
+          <CategoryVotes CategoryCode="AV" CategoryName="Absent Votes" VoteGrouping="Count Centre" FormalVotes="2426" InformalVotes="76" LastUpdated="2017-03-22T18:18:06.84" />
           <CategoryVotes CategoryCode="POV" CategoryName="Early Votes (by Post)" VoteGrouping="Count Centre" FormalVotes="1821" InformalVotes="95" LastUpdated="2017-03-22T17:46:07.323" />
           <CategoryVotes CategoryCode="PPV" CategoryName="Early Votes (In Person)" VoteGrouping="Count Centre" FormalVotes="2545" InformalVotes="106" LastUpdated="2017-03-22T17:24:44.867" />
           <CategoryVotes CategoryCode="PRV" CategoryName="Provisional Votes" VoteGrouping="Count Centre" FormalVotes="7" InformalVotes="0" LastUpdated="2017-03-22T15:06:05.387" />
