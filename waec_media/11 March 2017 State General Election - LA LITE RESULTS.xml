@@ -922,7 +922,7 @@
       </LA>
     </ElectionDistrict>
     <ElectionDistrict Code="COT">
-      <LA ElectionStatus="Count In Progress" ElectionStatusDescription="">
+      <LA ElectionStatus="Results Declared" ElectionStatusDescription="">
         <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="COT" FormalVotes="23405" InformalVotes="819" LastUpdated="2017-03-23T15:56:34.74">
           <CandidateVotes CandidateBallotPaperOrder="1" PollingPlaceVotes="1039" CountCentreVotes="293" TotalVotes="1332" />
           <CandidateVotes CandidateBallotPaperOrder="2" PollingPlaceVotes="122" CountCentreVotes="76" TotalVotes="198" />
@@ -1144,7 +1144,7 @@
       </LA>
     </ElectionDistrict>
     <ElectionDistrict Code="NED">
-      <LA ElectionStatus="Count In Progress" ElectionStatusDescription="">
+      <LA ElectionStatus="Results Declared" ElectionStatusDescription="">
         <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="NED" FormalVotes="23321" InformalVotes="780" LastUpdated="2017-03-23T15:46:28.56">
           <CandidateVotes CandidateBallotPaperOrder="1" PollingPlaceVotes="333" CountCentreVotes="192" TotalVotes="525" />
           <CandidateVotes CandidateBallotPaperOrder="2" PollingPlaceVotes="4187" CountCentreVotes="1938" TotalVotes="6125" />
@@ -2315,7 +2315,7 @@
       </LA>
     </ElectionDistrict>
     <ElectionDistrict Code="ROE">
-      <LA ElectionStatus="Count In Progress" ElectionStatusDescription="">
+      <LA ElectionStatus="Results Declared" ElectionStatusDescription="">
         <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="ROE" FormalVotes="22484" InformalVotes="883" LastUpdated="2017-03-23T14:04:01.827">
           <CandidateVotes CandidateBallotPaperOrder="1" PollingPlaceVotes="2958" CountCentreVotes="2425" TotalVotes="5383" />
           <CandidateVotes CandidateBallotPaperOrder="2" PollingPlaceVotes="762" CountCentreVotes="420" TotalVotes="1182" />
@@ -2638,7 +2638,7 @@
   </ElectionRegion>
   <ElectionRegion Code="06">
     <ElectionDistrict Code="ALB">
-      <LA ElectionStatus="Count In Progress" ElectionStatusDescription="">
+      <LA ElectionStatus="Results Declared" ElectionStatusDescription="">
         <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="ALB" FormalVotes="23586" InformalVotes="838" LastUpdated="2017-03-23T11:34:41.053">
           <CandidateVotes CandidateBallotPaperOrder="1" PollingPlaceVotes="940" CountCentreVotes="607" TotalVotes="1547" />
           <CandidateVotes CandidateBallotPaperOrder="2" PollingPlaceVotes="809" CountCentreVotes="358" TotalVotes="1167" />
@@ -2707,16 +2707,16 @@
     </ElectionDistrict>
     <ElectionDistrict Code="BUN">
       <LA ElectionStatus="Count In Progress" ElectionStatusDescription="">
-        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="BUN" FormalVotes="23029" InformalVotes="1150" LastUpdated="2017-03-23T12:44:18.453">
+        <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="BUN" FormalVotes="23029" InformalVotes="1150" LastUpdated="2017-03-23T16:33:26.6">
           <CandidateVotes CandidateBallotPaperOrder="1" PollingPlaceVotes="2866" CountCentreVotes="2252" TotalVotes="5118" />
-          <CandidateVotes CandidateBallotPaperOrder="2" PollingPlaceVotes="1149" CountCentreVotes="900" TotalVotes="2049" />
+          <CandidateVotes CandidateBallotPaperOrder="2" PollingPlaceVotes="1150" CountCentreVotes="900" TotalVotes="2050" />
           <CandidateVotes CandidateBallotPaperOrder="3" PollingPlaceVotes="102" CountCentreVotes="70" TotalVotes="172" />
           <CandidateVotes CandidateBallotPaperOrder="4" PollingPlaceVotes="959" CountCentreVotes="600" TotalVotes="1559" />
           <CandidateVotes CandidateBallotPaperOrder="5" PollingPlaceVotes="43" CountCentreVotes="22" TotalVotes="65" />
-          <CandidateVotes CandidateBallotPaperOrder="6" PollingPlaceVotes="1861" CountCentreVotes="1302" TotalVotes="3163" />
+          <CandidateVotes CandidateBallotPaperOrder="6" PollingPlaceVotes="1860" CountCentreVotes="1302" TotalVotes="3162" />
           <CandidateVotes CandidateBallotPaperOrder="7" PollingPlaceVotes="6495" CountCentreVotes="3604" TotalVotes="10099" />
           <CandidateVotes CandidateBallotPaperOrder="8" PollingPlaceVotes="478" CountCentreVotes="326" TotalVotes="804" />
-          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="1" VoteGrouping="Polling Places" FormalVotes="1639" InformalVotes="95" LastUpdated="2017-03-23T11:57:56.887" />
+          <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="1" VoteGrouping="Polling Places" FormalVotes="1639" InformalVotes="95" LastUpdated="2017-03-23T16:33:26.6" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="2" VoteGrouping="Polling Places" FormalVotes="768" InformalVotes="36" LastUpdated="2017-03-23T11:58:14.433" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="3" VoteGrouping="Polling Places" FormalVotes="861" InformalVotes="36" LastUpdated="2017-03-23T11:58:30.06" />
           <OrdinaryPollingPlaceVotes OrdinaryPollingPlaceNumber="4" VoteGrouping="Polling Places" FormalVotes="956" InformalVotes="34" LastUpdated="2017-03-23T11:58:44.293" />
@@ -2758,7 +2758,7 @@
       </LA>
     </ElectionDistrict>
     <ElectionDistrict Code="COP">
-      <LA ElectionStatus="Count In Progress" ElectionStatusDescription="">
+      <LA ElectionStatus="Results Declared" ElectionStatusDescription="">
         <DistrictVotes CountDefinitionCode="LAPC" CountDefinitionName="Legislative Assembly Primary Count" DistrictCode="COP" FormalVotes="24751" InformalVotes="1086" LastUpdated="2017-03-23T14:10:36.647">
           <CandidateVotes CandidateBallotPaperOrder="1" PollingPlaceVotes="143" CountCentreVotes="87" TotalVotes="230" />
           <CandidateVotes CandidateBallotPaperOrder="2" PollingPlaceVotes="762" CountCentreVotes="408" TotalVotes="1170" />
