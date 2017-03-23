@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ElectionEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ElectionDate="2017-03-11" Name="11 March 2017 State General Election" xmlns="http://tempuri.org/MediaExportSchema.xsd">
   <ElectionRegion Code="04" Name="Agricultural" Enrolment="102748">
-    <LC Name="Legislative Council" Vacancies="6" ElectionStatus="Count In Progress" ElectionStatusDescription="">
+    <LC Name="Legislative Council" Vacancies="6" ElectionStatus="Results Declared" ElectionStatusDescription="">
       <DistrictVotes CountDefinitionCode="LCFD" CountDefinitionName="Legislative Council Primary Count" DistrictCode="04" DistrictName="Agricultural" FormalVotes="83509" InformalVotes="2606" LastUpdated="2017-03-21T11:49:18.033">
         <GroupVotes GroupBallotPaperOrder="1" GroupBallotPaperName="WA Labor" TicketVotes="20484" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="2" GroupBallotPaperName="Family First" TicketVotes="773" NonTicketVotes="0" />
@@ -6446,7 +6446,7 @@
     </LC>
   </ElectionRegion>
   <ElectionRegion Code="05" Name="Mining and Pastoral" Enrolment="68480">
-    <LC Name="Legislative Council" Vacancies="6" ElectionStatus="Count In Progress" ElectionStatusDescription="">
+    <LC Name="Legislative Council" Vacancies="6" ElectionStatus="Results Declared" ElectionStatusDescription="">
       <DistrictVotes CountDefinitionCode="LCFD" CountDefinitionName="Legislative Council Primary Count" DistrictCode="05" DistrictName="Mining and Pastoral" FormalVotes="47232" InformalVotes="1326" LastUpdated="2017-03-21T09:48:10.393">
         <GroupVotes GroupBallotPaperOrder="1" GroupBallotPaperName="FLUORIDE FREE WA" TicketVotes="171" NonTicketVotes="0" />
         <GroupVotes GroupBallotPaperOrder="2" GroupBallotPaperName="Micro Business Party" TicketVotes="58" NonTicketVotes="0" />
